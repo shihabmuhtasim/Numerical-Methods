@@ -4,3 +4,4 @@ This course provides a solid introduction to the field of numerical analysis. Th
 The objectives of this course are to
   -Develop an understanding of the core ideas and concepts of Numerical Methods.
   -Provide students with sound understanding and knowledge of programming and efficient coding to implement different numerical methods and concepts.
+![NUMERICAL METHODS](https://user-images.githubusercontent.com/92597456/233389199-9ce9819a-9156-4e26-a5e0-70f99d2d9997.png)
